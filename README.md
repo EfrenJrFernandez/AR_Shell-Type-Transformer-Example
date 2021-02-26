@@ -6,7 +6,7 @@ The following example portrays a 3D model of a single phase shell type transform
 
 To access the example please scan the following QR code:
 
-**[Note that if you are using a mobile device you may need to put it in landscape mode to properly see the UI elements]**
+**[Note that if you are using a mobile device you may need to rotate your device to landscape and access the desktop site on your application to see all the UI elements]**
 
 
 ![](images/QR-Code.png)

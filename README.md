@@ -11,6 +11,7 @@ To access the example please scan the following QR code or visit https://efrenjr
 
 ![](images/QR-Code.png)
 
+After accessing the website please allow it to access your device's camera. Afterwards pointing the camera at the marker will generate the model.
 
 The marker for this example is given below:
 
@@ -19,5 +20,3 @@ The marker for this example is given below:
 
 
 [If you would like to print the marker please download the image which is located in the images folder]
-
- 
